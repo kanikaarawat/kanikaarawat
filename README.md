@@ -1,6 +1,7 @@
   <h1 align="center">Hey There!</h1>
+  
   </hr>
-    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+   <b>🛠️ Languages & Tools</b><br/>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
     <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917"></code>
     <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png?20170517184425"></code>
