@@ -6,6 +6,13 @@
   Full Stack Developer & AI Enthusiast
 </h4>
 
+## 👩‍💻 About me:
+<p>
+I am a <b>Full-Stack Developer</b> with a focus on <b>React</b>, <b>AI/ML</b>, and <b>Web Development</b>. I am passionate about building clean, efficient, and creative solutions while learning new technologies.<br>
+I'm constantly striving to improve my skills and push boundaries in tech.<br>
+I'm experienced in working with cross-functional teams and delivering high-quality projects.
+</p>
+
 <h2 align="center">🥇 Main Skills:</h2>
 
 💧 FrontEnd: HTML, CSS, React, Redux, React Native, Tailwind CSS, Material UI, Next.js, Vue.js, Nuxt.js, TypeScript, jQuery<br/>
@@ -126,8 +133,3 @@
     </td>
   </tr>
 </table>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikaarawat&layout=compact&theme=radical" alt="Top Languages" width="55%"/>
-</p>
