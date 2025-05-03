@@ -1,27 +1,133 @@
-  <h1 align="center">Hey There!</h1>
-  
-  </hr>
-   <b>🛠️ Languages & Tools</b><br/>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917"></code>
-    <code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png?20170517184425"></code>
-    <code><img width="3.5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png?20160530175649"></code>
-    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/768px-Unofficial_JavaScript_logo_2.svg.png?20141107110902"></code>
-    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png?20220125121207"></code>
-    <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/AngularJS_logo.svg/1043px-AngularJS_logo.svg.png?20161015100937"></code>
-    <code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355"></code>
-</hr>
-        
-        
-        
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanikaarawat&label=Profile%20views&color=0e75b6&style=flat" alt="kanikaarawat" /> </p>
-<p><p>
-  <img align="right" src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Jokes Card" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Developer;Focused%20on%20React%20and%20AI;Clean%20Code%20and%20Creativity;Always%20Learning%20and%20Growing&font=Lobster&center=true&width=650&height=120&color=0194DD&vCenter=true&size=36">
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kanikaarawat&show_icons=true&theme=radical)
+<h4 align='center'>
+  Full Stack Developer & AI Enthusiast
+</h4>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kanikaarawat&show_icons=true&theme=radical)
+<h2 align="center">🥇 Main Skills:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanikaarawat&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+💧 FrontEnd: HTML, CSS, React, Redux, React Native, Tailwind CSS, Material UI, Next.js, Vue.js, Nuxt.js, TypeScript, jQuery<br/>
 
+🔸 BackEnd: Node.js, Express, Django, Spring Boot, Flask, Python, GraphQL<br/>
+
+🚀 Database: MySQL, MongoDB, PostgreSQL, SQLite, Supabase<br/>
+
+💥 AI/ML: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy<br/>
+
+💎 Other: Git, Docker, CI/CD, REST APIs, Firebase<br/>
+
+<h2>⚡ Skill Set</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+      <br>Vue.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="Styled Components" />
+      <br>Styled Components
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+      <br>Three.js
+    </td>
+  </tr>
+</table>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanikaarawat&layout=compact&theme=radical" alt="Top Languages" width="55%"/>
+</p>
